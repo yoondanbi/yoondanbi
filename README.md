@@ -16,11 +16,7 @@
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  |
 | <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/d8315bfd-25fe-457e-bddc-c52038134bc3" width="150px" height="200px">  |
 
-<div style="text-align: left;">
-    <br> 
-    <div align="center"> 
-</div>
-    <div style="text-align: left;">
+
       
 ## 🛠️ Tech Stacks
     <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
