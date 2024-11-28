@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?color=auto?fontSize=30?animation=twinkling?section=footer)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yoondanbi"
