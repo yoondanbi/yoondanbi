@@ -12,7 +12,7 @@
 | [2024.04.30]  | [2024.09.26]  |
 |:-:|:-:|
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  |
-| <img src="" width="300px" height="200px"> | <img src="C:\Users\yoond\OneDrive\사진\스크린샷\스크린샷 2024-11-28 124920.png" width="150px" height="200px">  |
+| <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/d8315bfd-25fe-457e-bddc-c52038134bc3" width="150px" height="200px">  |
 
 
 <div style="text-align: left;">
