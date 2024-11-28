@@ -9,20 +9,20 @@
 </a>
 
 <br> <br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Achievements </h2> <br> 
 
+## 🏆 Achievements
 | [2024.04.30]  | [2024.09.26]  |
 |:-:|:-:|
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  |
 | <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/d8315bfd-25fe-457e-bddc-c52038134bc3" width="150px" height="200px">  |
-
 
 <div style="text-align: left;">
     <br> 
     <div align="center"> 
 </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+      
+## 🛠️ Tech Stacks
     <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -47,7 +47,8 @@
   </a>
 </p>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #555555;"> 🏅 Stats </h2>
+
+## 🏅 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoondanbi&bg_color=60,eeeeee,bbbbbb&title_color=333333&text_color=555555" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoondanbi&layout=compact&bg_color=60,eeeeee,bbbbbb&title_color=333333&text_color=555555" />
