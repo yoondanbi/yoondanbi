@@ -12,7 +12,7 @@
 | [2024.04.30]  | [2024.09.26]  |
 |:-:|:-:|
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  |
-| <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="150px" height="200px">  |
+| <img src="[2024 Cisco Innovation Challenge 장려상.pdf](https://github.com/user-attachments/files/17942455/2024.Cisco.Innovation.Challenge.pdf)" width="300px" height="200px"> | <img src="[QuickQuick상장.pdf](https://github.com/user-attachments/files/17942450/QuickQuick.pdf)" width="150px" height="200px">  |
 
 
 <div style="text-align: left;">
