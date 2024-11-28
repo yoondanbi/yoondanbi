@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/niroey" width="600" height="300" />
+  <img src="https://render.gitanimals.org/farms/yoondanbi" width="600" height="300" />
 </a>
 
 <br> <br>
@@ -39,7 +39,7 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=YoonDanbi&bg_color=60,fff9e5,a69191&title_color=fafafa&text_color=fafafa"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yoondanbi&bg_color=60,fff9e5,a69191&title_color=fafafa&text_color=fafafa"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroey&layout=compact&bg_color=60,fff9e5,a69191&title_color=fafafa&text_color=fafafa"
            /> </div> 
     </div>
