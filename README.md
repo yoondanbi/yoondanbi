@@ -39,10 +39,18 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://blog.naver.com/niroey> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/niroey"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+<br>
+<div align="center">
+  <a href="https://blog.naver.com/niroey">
+    <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog">
+  </a>
+  <a href="mailto:yoondb1128@naver.com">
+    <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail">
+  </a>
+</div>
+<br>
+
     </div>
     <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #555555;"> 🏅 Stats </h2>
