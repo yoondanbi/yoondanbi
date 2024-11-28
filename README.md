@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?color=auto?fontSize=30?animation=twinkling?section=footer)
+![](https://capsule-render.vercel.app/api?type=waving?color=auto?text=안녕하세요%20윤단비입니다%20🙋‍♀️?fontSize=30?animation=twinkling?section=header)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yoondanbi"
