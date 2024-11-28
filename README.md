@@ -21,6 +21,7 @@
     <div align="center"> 
 </div>
     <div style="text-align: left;">
+      
 ## 🛠️ Tech Stacks
     <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
