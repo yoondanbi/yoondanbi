@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=안녕하세요%20윤단비입니다%20🙋‍♀️&textColor=ffffff&fontSize=50&animation=twinkling&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=안녕하세요%20윤단비입니다%20🙋‍♀️&textColor=ffffff&fontSize=39&animation=twinkling&section=header)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
