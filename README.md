@@ -17,9 +17,9 @@
 | <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/d8315bfd-25fe-457e-bddc-c52038134bc3" width="150px" height="200px">  | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/b6d661e7-366a-4361-80a2-f475c2320e2e" width="150px" height="200px"> |
 
 ## 👩‍🏫 Experiences
-[2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교**
-[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 **최우수상**
-[2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터**
+[2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
+[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 **최우수상** <br>
+[2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
 
 ## 🛠️ Tech Stacks
 <p align="center">
