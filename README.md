@@ -13,7 +13,7 @@
 ## 🏆 Achievements
 | [2024.04.30]  | [2024.09.26]  | [2024.11.27] | [2024.12.31] |
 |:-:|:-:|:-:|:-:|
-| 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상** | AI를 활용한 간결한 메모와 공유 시스템: QuickQuick" **논문 출간** |
+| 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상** | KCI 등재지 **논문 출간** |
 | <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/d8315bfd-25fe-457e-bddc-c52038134bc3" width="150px" height="200px">  | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/b6d661e7-366a-4361-80a2-f475c2320e2e" width="150px" height="200px"> |
 
 ## 🛠️ Tech Stacks
