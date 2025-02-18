@@ -19,7 +19,7 @@
 | [2025.2.7] |
 |:-:|
 | 제 11회 한성 창의융합역량경진대회 <br>**금상**|
-| <img src="https://github.com/user-attachments/assets/3b2a39ce-cc1e-49b4-a739-8bd043d0574c" width="150px" height="200px"> |
+| <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> |
 
 <br> <br>
 
