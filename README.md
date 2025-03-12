@@ -31,6 +31,7 @@
   <img src="https://github.com/user-attachments/assets/08b50cf6-75db-4921-8127-16a3507cfed3" width="150px" height="200px">
   </details>
 - [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
+- [2025. 1학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
 
 
