@@ -36,9 +36,9 @@
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
 - <details>
   <summary>[2025. 1학기] 한성대학교 신입생 오리엔테이션 온라인 트랙 가이드 영상 제작<strong>최우수 작품 선정</strong></summary>
-  <a href="https://youtu.be/SEESO4BB3M8?feature=shared" target="_blank"> <img src="https://img.youtube.com/vi/abc123xyz/hqdefault.jpg" width="300"> </a> 
+  <a href="https://youtu.be/SEESO4BB3M8?feature=shared" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/6d086dbf-e18c-4eea-9db1-b0782d28d9c0" width="300"> </a> 
   </details>
-
 
 
 <br> <br>
