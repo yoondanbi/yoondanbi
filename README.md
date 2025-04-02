@@ -37,7 +37,7 @@
 - <details>
   <summary>[2025. 1학기] 한성대학교 동계 프로그래밍 캠프 <strong>소개 Vlog 영상 제작</strong></summary>
   <a href="https://youtu.be/qLHqsPP4sKc" target="_blank"> 
-    <img src="" width="300"> </a> 
+    <img src="https://github.com/user-attachments/assets/7b83651b-7a61-459f-9dfd-0f03d8621088" width="300"> </a> 
   </details>
 - <details>
   <summary>[2025. 1학기] 한성대학교 신입생 오리엔테이션 온라인 트랙 가이드 영상 제작 <strong>최우수 작품</strong> 선정</summary>
