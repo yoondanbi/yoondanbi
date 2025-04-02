@@ -36,7 +36,7 @@
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
 - <details>
   <summary>[2025. 1학기] 한성대학교 동계 프로그래밍 캠프 <strong>소개 Vlog 영상 제작</strong></summary>
-  <a href="" target="_blank"> 
+  <a href="https://youtu.be/qLHqsPP4sKc" target="_blank"> 
     <img src="" width="300"> </a> 
   </details>
 - <details>
