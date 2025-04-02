@@ -32,7 +32,14 @@
   </details>
 - [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 1학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
+- [2025. 1학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터** <br>
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
+- <details>
+  <summary>[2025. 1학기] 한성대학교 신입생 오리엔테이션 온라인 트랙 가이드 영상 제작<strong>최우수 작품 선정</strong></summary>
+  <a href="https://youtu.be/SEESO4BB3M8" target="_blank">
+    <img src="https://img.youtube.com/vi/SEESO4BB3M8/hqdefault.jpg" width="400">
+  </a>
+</details>
 
 
 <br> <br>
