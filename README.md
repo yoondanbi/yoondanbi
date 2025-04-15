@@ -35,7 +35,7 @@
 - [2025. 1학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터** <br>
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
 - <details>
-  <summary>[2025. 1학기] 한성대학교 동계 프로그래밍 캠프 <strong>소개 Vlog 영상 제작</strong></summary>
+  <summary>[2025. 1학기] 한성대학교 동계 프로그래밍 캠프 소개 <strong>Vlog 영상 제작</strong></summary>
   <a href="https://youtu.be/qLHqsPP4sKc" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/7b83651b-7a61-459f-9dfd-0f03d8621088" width="300"> </a> 
   </details>
