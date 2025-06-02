@@ -1,13 +1,14 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=안녕하세요%20윤단비입니다%20🙋‍♀️&textColor=ffffff&fontSize=39&animation=twinkling&section=header)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/yoondanbi"
-  width="600"
-  height="300"
-/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/yoondanbi"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
 <br> <br>
 
 ## 🏆 Achievements
@@ -18,7 +19,7 @@
 
 | [2025.02.07] | [2025.05.26] | [2025.05.30] |
 |:-:|:-:|:-:| 
-| 제 11회 한성 창의융합역량경진대회 <br>**금상**| 2025 한성대학교<br>**한성발전공헌상** | 2025 한성대학교 캡스톤디자인<br>**최우수상** |
+| 제 11회 한성 창의융합역량경진대회 <br>**금상**| 2025 한성대학교<br>**한성발전공헌상** | 2025 한성대학교 캡스톤디자인<br>웹 부문 1위<br>**최우수상** |
 | <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> | <img src="https://github.com/user-attachments/assets/ad9aa0fa-a737-4f0b-9dea-d332b4c2d3ee" width="150px" height="200px"/> |
 
 <br> <br>
@@ -28,7 +29,7 @@
 - [2023. 2학기] 2023 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
 - [2024. 2학기] 2024 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
 - <details><summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 <strong>최우수상</strong></summary>
-  <img src="https://github.com/user-attachments/assets/08b50cf6-75db-4921-8127-16a3507cfed3" width="150px" height="200px">
+  <img src="https://github.com/user-attachments/assets/a812d18a-2fa5-429f-bb6a-3394bdc38138" width="150px" height="200px">
   </details>
 - [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 1학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
