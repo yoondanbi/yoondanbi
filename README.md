@@ -18,8 +18,8 @@
 
 | [2025.02.07] | [2025.05.26] | [2025.05.30] |
 |:-:|:-:|:-:| 
-| 제 11회 한성 창의융합역량경진대회 <br>**금상**| **한성발전공헌상** | 2025 한성 캡스톤디자인 **최우수상** |
-| <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> | <img src="https://github.com/user-attachments/assets/52af3472-7b0e-475c-9444-d2eed9f066c0" width="150px" height="200px"/> |
+| 제 11회 한성 창의융합역량경진대회 <br>**금상**| 2025 한성대학교<br>**한성발전공헌상** | 2025 한성대학교 캡스톤디자인<br>**최우수상** |
+| <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> | <img src="https://github.com/user-attachments/assets/ad9aa0fa-a737-4f0b-9dea-d332b4c2d3ee" width="150px" height="200px"/> |
 
 <br> <br>
 
