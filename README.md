@@ -12,15 +12,24 @@
 <br> <br>
 
 ## 🏆 Achievements
-| [2024.04.30]  | [2024.09.26]  | [2024.11.27] | [2024.12.31] |
-|:-:|:-:|:-:|:-:|
-| 2024 시스코 이노베이션 챌린지 <br>**장려상**  | 제 20회 한성공학경진대회 <br>**은상**  | 2024 SW중심대학연합 <br>SW FESTIVAL <br>**최우수상** | KCI 등재지 <br>**논문 출간** |
-| <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="150px" height="200px">  | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/b6d661e7-366a-4361-80a2-f475c2320e2e" width="150px" height="200px"> |
 
-| [2025.02.07] | [2025.05.26] | [2025.05.30] |
-|:-:|:-:|:-:| 
-| 제 11회 한성 창의융합역량경진대회 <br>**금상**| 2025 한성대학교<br>**한성발전공헌상** | 2025 한성대학교 캡스톤디자인<br>웹 부문 1위<br>**최우수상** |
-| <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> | <img src="https://github.com/user-attachments/assets/ad9aa0fa-a737-4f0b-9dea-d332b4c2d3ee" width="150px" height="200px"/> |
+#### 📡 External Competitions
+| [2024.04.30]  | [2024.11.27] |
+|:-:|:-:|
+| 2024 시스코 이노베이션 챌린지 <br>**장려상** | 2024 SW중심대학연합 <br>SW FESTIVAL <br>**최우수상** |
+| <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px"> |
+
+#### 📄 Research Publications
+| [2024.12.31] |
+|:-:|
+| KCI 등재지 <br>**논문 출간** |
+| <img src="https://github.com/user-attachments/assets/b6d661e7-366a-4361-80a2-f475c2320e2e" width="150px" height="200px"> |
+
+#### 🏛️ University Competitions
+| [2024.09.26]  | [2025.02.07] | [2025.05.26] | [2025.05.30] |
+|:-:|:-:|:-:|:-:|
+| 제 20회 한성공학경진대회 <br>**은상** | 제 11회 한성 창의융합역량경진대회 <br>**금상**| 2025 한성대학교<br>**한성발전공헌상** | 2025 한성대학교 캡스톤디자인<br>웹 부문 1위<br>**최우수상** |
+| <img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="150px" height="200px">  | <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> | <img src="https://github.com/user-attachments/assets/ad9aa0fa-a737-4f0b-9dea-d332b4c2d3ee" width="150px" height="200px"/> |
 
 <br> <br>
 
