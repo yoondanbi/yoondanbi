@@ -1,14 +1,4 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=안녕하세요%20윤단비입니다%20🙋‍♀️&textColor=ffffff&fontSize=39&animation=twinkling&section=header)
-
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/yoondanbi"
-      width="600"
-      height="300"
-    />
-  </a>
-</p>
 <br> <br>
 
 ## 🏆 Achievements
@@ -55,7 +45,6 @@
     <img src="https://github.com/user-attachments/assets/6d086dbf-e18c-4eea-9db1-b0782d28d9c0" width="300"> </a> 
   </details>
 
-
 <br> <br>
 
 ## 🚀 Projects
@@ -67,7 +56,22 @@
 
 > #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
   스토리와 하이라이트 중심의 영상 요약 웹 서비스
-  
+
+<br> <br>
+
+##
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/yoondanbi"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
+
+<br><br>
+
 ## 🛠️ Tech Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
@@ -99,12 +103,4 @@
     <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail">
   </a>
 </p>
-
-
-## 🏅 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoondanbi&bg_color=60,eeeeee,bbbbbb&title_color=333333&text_color=555555" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoondanbi&layout=compact&bg_color=60,eeeeee,bbbbbb&title_color=333333&text_color=555555" />
-</div>
-
 
