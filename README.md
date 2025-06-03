@@ -1,27 +1,42 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=안녕하세요%20윤단비입니다%20🙋‍♀️&textColor=ffffff&fontSize=39&animation=twinkling&section=header)
-<br> <br>
 
 ## 🏆 Achievements
+####  [External Competitions]
+- <details>
+  <summary>[2024.04.30] 2024 시스코 이노베이션 챌린지 <strong>장려상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="400px">
+  </details>
 
-#### 📡 External Competitions
-| [2024.04.30]  | [2024.11.27] |
-|:-:|:-:|
-| 2024 시스코 이노베이션 챌린지 <br>**장려상** | 2024 SW중심대학연합 SW FESTIVAL <br> 모바일&웹 부문 1위<br>**최우수상** |
-| <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px"> |
+- <details>
+  <summary>[2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL 웹&모바일 부문 1위 <strong>최우수상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px">
+  </details>
 
-#### 🏛️ University Competitions
-| [2024.09.26]  | [2025.02.07] | [2025.05.26] | [2025.05.30] |
-|:-:|:-:|:-:|:-:|
-| 제 20회 한성공학경진대회 <br>**은상** | 제 11회 한성 창의융합역량경진대회 <br>**금상**| 2025 한성대학교<br>**한성발전공헌상** | 2025 한성대학교 캡스톤디자인<br>웹 부문 1위<br>**최우수상** |
-| <img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="150px" height="200px">  | <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" height="200px"> | <img src="https://github.com/user-attachments/assets/ad9aa0fa-a737-4f0b-9dea-d332b4c2d3ee" width="150px" height="200px"/> |
+####  [University Competitions]
+- <details>
+  <summary>[2024.09.26] 제 20회 한성공학경진대회 <strong>은상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7"width="150px" height="200px">
+  </details>
 
-#### 📄 Research Publications
-| [2024.12.31] |
-|:-:|
-| KCI 등재지 <br>**논문 출간** |
-| <img src="https://github.com/user-attachments/assets/b6d661e7-366a-4361-80a2-f475c2320e2e" width="150px" height="200px"> |
+- <details>
+  <summary>[2025.02.07] 제 11회 창의융합역량 경진대회 <strong>금상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/d3657dd1-94ce-487a-b91c-978add529d03" width="150px" height="200px">
+  </details>
 
-<br> <br>
+- <details>
+  <summary>[2025.05.26] 2025 한성대학교 <strong>한성발전공헌상</strong></summary>
+    <img src="https://github.com/user-attachments/assets/ad9aa0fa-a737-4f0b-9dea-d332b4c2d3ee" width="150px" height="200px">
+  </details>
+
+- <details>
+  <summary>[2025.05.30] 한성대학교 컴퓨터공학부 캡스톤디자인 작품발표회 웹 부문 1위 <strong>최우수상</strong></summary>
+  </details>
+
+####  [Research Publications]
+* [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick
+* [논문2] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가
+
+<br>
 
 ## 👩‍🏫 Other Achievements & Experiences
 - [2022. 2학기] 2022 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
@@ -45,32 +60,30 @@
     <img src="https://github.com/user-attachments/assets/6d086dbf-e18c-4eea-9db1-b0782d28d9c0" width="300"> </a> 
   </details>
 
-<br> <br>
+<br>
 
-## 🚀 Projects
-> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
+## 📄 Projects
+> ####  [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
   화장품 용기 분리수거 AIoT 시스템
 
-> #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
+> ####  [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
   AI 기반으로 메모와 공유가 간결한 시스템
 
-> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
+> ####  [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
   스토리와 하이라이트 중심의 영상 요약 웹 서비스
 
-<br> <br>
+<br>
 
 ##
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/yoondanbi"
-      width="600"
-      height="300"
+      width="500"
+      height="200"
     />
   </a>
 </p>
-
-<br><br>
 
 ## 🛠️ Tech Stacks
 <p align="center">
@@ -102,5 +115,5 @@
   <a href="mailto:yoondb1128@naver.com">
     <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail">
   </a>
-</p>
+</p> 
 
