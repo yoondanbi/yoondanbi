@@ -58,6 +58,16 @@
 
 <br> <br>
 
+## 🚀 Projects
+> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
+  화장품 용기 분리수거 AIoT 시스템
+
+> #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
+  AI 기반으로 메모와 공유가 간결한 시스템
+
+> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
+  스토리와 하이라이트 중심의 영상 요약 웹 서비스
+  
 ## 🛠️ Tech Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
