@@ -16,7 +16,7 @@
 #### 📡 External Competitions
 | [2024.04.30]  | [2024.11.27] |
 |:-:|:-:|
-| 2024 시스코 이노베이션 챌린지 <br>**장려상** | 2024 SW중심대학연합 <br>SW FESTIVAL <br>**최우수상** |
+| 2024 시스코 이노베이션 챌린지 <br>**장려상** | 2024 SW중심대학연합 SW FESTIVAL <br> 모바일&웹 부문 1위<br>**최우수상** |
 | <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px"> |
 
 #### 🏛️ University Competitions
