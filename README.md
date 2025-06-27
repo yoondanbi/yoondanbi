@@ -30,7 +30,7 @@
 
 - <details>
   <summary>[2025.05.30] 한성대학교 컴퓨터공학부 캡스톤디자인 작품발표회 웹 부문 1위 <strong>최우수상</strong></summary>
-    <img src="https://github.com/user-attachments/assets/8ea9c1c6-b063-4721-8892-2aae9dc84a95" width="150px" height="200px">
+    <img src="https://github.com/user-attachments/assets/c519cb1f-103e-4eaf-9016-9a281b269d1e" width="150px" height="200px">
   </details>
 
 ####  [Research Publications]
