@@ -34,8 +34,8 @@
   </details>
 
 ####  [Research Publications]
-* [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick
-* [논문2] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가
+* [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
+* [[논문2]](https://github.com/user-attachments/files/21011152/default.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
 
 <br>
 
