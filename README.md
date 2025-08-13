@@ -33,6 +33,10 @@
     <img src="https://github.com/user-attachments/assets/c519cb1f-103e-4eaf-9016-9a281b269d1e" width="150px" height="200px">
   </details>
 
+- <details>
+  <summary>[2025.08.13] 제 12회 창의융합역량 경진대회 <strong>은상</strong></summary>
+  </details>
+
 ####  [Research Publications]
 * ✔️KCI 등재 - [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
 * ✔️KCI 등재 - [[논문2]](https://github.com/user-attachments/files/21011152/default.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
