@@ -35,6 +35,7 @@
 
 - <details>
   <summary>[2025.08.13] 제 12회 창의융합역량 경진대회 <strong>은상</strong></summary>
+    <img src="https://github.com/user-attachments/assets/1ef34e74-b0b1-48a3-be21-3192775af886" width="150px" height="200px">
   </details>
 
 ####  [Research Publications]
