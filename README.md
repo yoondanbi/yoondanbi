@@ -37,6 +37,11 @@
   <summary>[2025.08.13] 제 12회 창의융합역량 경진대회 <strong>은상</strong></summary>
     <img src="https://github.com/user-attachments/assets/1ef34e74-b0b1-48a3-be21-3192775af886" width="150px" height="200px">
   </details>
+  
+- <details>
+  <summary>[2025.09.26] 제 21회 한성공학경진대회 <strong>은상</strong></summary>
+    <img src=""width="150px" height="200px">
+  </details>
 
 ####  [Research Publications]
 * ✔️KCI 등재 - [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
