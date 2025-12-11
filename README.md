@@ -12,6 +12,11 @@
   <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="150px" height="200px">
   </details>
 
+- <details>
+  <summary>[2025.11.20] 2025 추계종합학술발표회 캡스톤디자인 경진대회 <strong>최우수상</strong></summary>
+    <img src="https://github.com/user-attachments/assets/6888d550-677c-4166-9626-5d957b0f0cb4" width="150px" height="200px">
+  </details>
+
 ####  [University Competitions]
 - <details>
   <summary>[2024.09.26] 제 20회 한성공학경진대회 <strong>은상</strong></summary>
@@ -42,6 +47,9 @@
   <summary>[2025.09.26] 제 21회 한성공학경진대회 <strong>은상</strong></summary>
     <img src=""width="150px" height="200px">
   </details>
+
+
+
 
 ####  [Research Publications]
 * ✔️KCI 등재 - [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
