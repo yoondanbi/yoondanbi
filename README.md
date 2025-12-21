@@ -13,6 +13,11 @@
   </details>
 
 - <details>
+  <summary>[2025.11.04] 2025 오픈소스 개발자대회 <strong>우수작 선정</strong></summary>
+  <img src="https://github.com/user-attachments/assets/093d9dd5-a4a1-49b0-bdac-4ff07334fe74" width="150px" height="200px">
+  </details>
+
+- <details>
   <summary>[2025.11.20] 2025 추계종합학술발표회 캡스톤디자인 경진대회 <strong>최우수상</strong></summary>
     <img src="https://github.com/user-attachments/assets/6888d550-677c-4166-9626-5d957b0f0cb4" width="150px" height="200px">
   </details>
