@@ -53,7 +53,12 @@
 
 ####  [Research Publications]
 * ✔️KCI 등재 - [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
-* ✔️KCI 등재 - [[논문2]](https://github.com/user-attachments/files/21011152/default.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
+* ✔️KCI 등재 - [[논문2]](https://github.com/user-attachments/files/21011152/ScreenMux.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
+* ✔️KCI 등재 - [[논문3]](https://github.com/user-attachments/files/24279173/Video.summarization.with.adjustable.ratio.of.highlights.and.story.pdf) Video summarization with adjustable ratio of highlights and story __*__ <sub><sup>2025</sup></sub>
+
+
+
+
 
 <br>
 
@@ -69,6 +74,7 @@
 - [2025. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 1학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터** <br>
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
+- [2026. 01. 07 ~ 01. 21] 2025 런던 글로벌 창업교육 프로그램 **수료** <br>
 - <details>
   <summary>[2025. 1학기] 한성대학교 동계 프로그래밍 캠프 소개 <strong>Vlog 영상 제작</strong></summary>
   <a href="https://youtu.be/qLHqsPP4sKc" target="_blank"> 
@@ -89,7 +95,7 @@
 > ####  [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
   AI 기반으로 메모와 공유가 간결한 시스템
 
-> ####  [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
+> ####  [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
   스토리와 하이라이트 중심의 영상 요약 웹 서비스
 
 <br>
