@@ -60,7 +60,8 @@
 * ✔️KCI 등재 - [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
 * ✔️KCI 등재 - [[논문2]](https://github.com/user-attachments/files/24279195/ScreenMux.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
 * ✔️KCI 등재 - [[논문3]](https://github.com/user-attachments/files/24279173/Video.summarization.with.adjustable.ratio.of.highlights.and.story.pdf) Video summarization with adjustable ratio of highlights and story __*__ <sub><sup>2025</sup></sub>
-
+* ✔️KCI 등재 - [[논문4]]() Design and Implementation of Multiplexer System for Display Sharing of Multiple Presenters on Meeting
+ __*__ <sub><sup>2025</sup></sub>
 
 
 
