@@ -67,7 +67,7 @@
 
 ####  [Patents]
 - <details>
-  <summary>[2025.12.316]  <strong>특허 출원</strong> – 로컬 네트워크 기반의 화면 공유 장치 및 방법 </summary>
+  <summary>[2025.12.31]  <strong>특허 출원</strong> – 로컬 네트워크 기반의 화면 공유 장치 및 방법 </summary>
     <img src="https://github.com/user-attachments/assets/058400bb-dcdf-4215-8cc1-5e2eceb7ae58"width="150px" height="200px">
   </details>
 
