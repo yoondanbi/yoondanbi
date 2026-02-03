@@ -65,16 +65,15 @@
 
 
 
+####  [Patents]
+- <details>
+  <summary>[2025.12.316]  <strong>특허 출원</strong> – 로컬 네트워크 기반의 화면 공유 장치 및 방법 </summary>
+    <img src="https://github.com/user-attachments/assets/058400bb-dcdf-4215-8cc1-5e2eceb7ae58"width="150px" height="200px">
+  </details>
 
 <br>
 
 ## 👩‍🏫 Other Achievements & Experiences
-- [2022. 2학기] 2022 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
-- [2023. 2학기] 2023 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
-- [2024. 2학기] 2024 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
-- <details><summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 <strong>최우수상</strong></summary>
-  <img src="https://github.com/user-attachments/assets/a812d18a-2fa5-429f-bb6a-3394bdc38138" width="150px" height="200px">
-  </details>
 - [2024. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 1학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
@@ -96,6 +95,12 @@
   <summary>[2025. 1학기] 한성대학교 신입생 오리엔테이션 온라인 트랙 가이드 영상 제작 <strong>최우수 작품</strong> 선정</summary>
   <a href="https://youtu.be/SEESO4BB3M8?feature=shared" target="_blank"> 
     <img src="https://github.com/user-attachments/assets/6d086dbf-e18c-4eea-9db1-b0782d28d9c0" width="300"> </a> 
+  </details>
+- [2022. 2학기] 2022 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
+- [2023. 2학기] 2023 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
+- [2024. 2학기] 2024 한성대학교 학술정보관 주최 한성인 서평 **베스트리뷰** 선정 <br>
+- <details><summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 <strong>최우수상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/a812d18a-2fa5-429f-bb6a-3394bdc38138" width="150px" height="200px">
   </details>
 
 <br>
