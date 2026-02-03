@@ -50,7 +50,7 @@
   
 - <details>
   <summary>[2025.09.26] 제 21회 한성공학경진대회 <strong>은상</strong></summary>
-    <img src=""width="150px" height="200px">
+    <img src="https://github.com/user-attachments/assets/68106957-c0ac-49dc-aa1a-cc8032b2e2dc"width="150px" height="200px">
   </details>
 
 
@@ -60,7 +60,7 @@
 * ✔️KCI 등재 - [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick __*__ <sub><sup>2024</sup></sub> ⭐
 * ✔️KCI 등재 - [[논문2]](https://github.com/user-attachments/files/24279195/ScreenMux.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
 * ✔️KCI 등재 - [[논문3]](https://github.com/user-attachments/files/24279173/Video.summarization.with.adjustable.ratio.of.highlights.and.story.pdf) Video summarization with adjustable ratio of highlights and story __*__ <sub><sup>2025</sup></sub>
-* ✔️KCI 등재 - [[논문4]]() Design and Implementation of Multiplexer System for Display Sharing of Multiple Presenters on Meeting
+* ✔️KCI 등재 - [[논문4]](https://github.com/user-attachments/files/25029528/Design.and.Implementation.of.Multiplexer.System.for.Display.Sharing.of.Multiple.Presenters.on.Meeting.pdf) Design and Implementation of Multiplexer System for Display Sharing of Multiple Presenters on Meeting
  __*__ <sub><sup>2025</sup></sub>
 
 
@@ -80,7 +80,13 @@
 - [2025. 2학기] 한성대학교 컴퓨터공학부 전공 기초 과목 **TA 조교** <br>
 - [2025. 1학기] 한성대학교 컴퓨터공학부 코딩라운지 **튜터** <br>
 - [2025. 01. 20 ~ 01. 24] 한성대학교 동계 프로그래밍 캠프 **튜터** <br>
-- [2026. 01. 07 ~ 01. 21] 2025 런던 글로벌 창업교육 프로그램 **수료** <br>
+- <details>
+    <summary> 
+      [2026. 01. 07 ~ 01. 20] 2025 런던 글로벌 창업교육 프로그램 <strong>수료 및 우수참여자(3rd) 선정</strong>
+    </summary>
+  <img src="https://github.com/user-attachments/assets/2b921cb6-e1a4-4aad-9567-0ff033d6929a" width="150px" height="200px">
+  <img src="https://github.com/user-attachments/assets/dc779e09-18f2-4fbe-a599-b7c83cea55ac" width="150px" height="200px">
+  </details>
 - <details>
   <summary>[2025. 1학기] 한성대학교 동계 프로그래밍 캠프 소개 <strong>Vlog 영상 제작</strong></summary>
   <a href="https://youtu.be/qLHqsPP4sKc" target="_blank"> 
