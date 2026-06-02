@@ -14,6 +14,7 @@
 
 - <details>
   <summary>[2025.11.04] 2025 오픈소스 개발자대회 <strong>우수작 선정</strong></summary>
+  <img src="https://github.com/user-attachments/assets/a6305efe-9e68-48f4-be7b-8eddaf63269c" width="150px" height="200px">
   <img src="https://github.com/user-attachments/assets/093d9dd5-a4a1-49b0-bdac-4ff07334fe74" width="150px" height="200px">
   </details>
 
