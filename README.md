@@ -1,5 +1,21 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=안녕하세요%20윤단비입니다%20🙋‍♀️&textColor=ffffff&fontSize=39&animation=twinkling&section=header)
 
+## 📄 Projects
+> ####  [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
+  화장품 용기 분리수거 AIoT 시스템
+
+> ####  [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
+  AI 기반으로 메모와 공유가 간결한 시스템
+
+> ####  [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
+  스토리와 하이라이트 중심의 영상 요약 웹 서비스
+  
+> ####  [**_MultiPlexer_**](https://github.com/yoondanbi/Multiplexer) <sub><sup>2025.03 ~ 2025.10</sup></sub>
+  실시간 디스플레이 공유가 가능한 임베디드 소프트웨어
+
+<br>
+
+
 ## 🏆 Achievements
 ####  [External Competitions]
 - <details>
@@ -106,56 +122,6 @@
 
 <br>
 
-## 📄 Projects
-> ####  [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
-  화장품 용기 분리수거 AIoT 시스템
-
-> ####  [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
-  AI 기반으로 메모와 공유가 간결한 시스템
-
-> ####  [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
-  스토리와 하이라이트 중심의 영상 요약 웹 서비스
-  
-> ####  [**_MultiPlexer_**](https://github.com/yoondanbi/Multiplexer) <sub><sup>2025.03 ~ 2025.10</sup></sub>
-  실시간 디스플레이 공유가 가능한 임베디드 소프트웨어
-
-<br>
-
-##
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/yoondanbi"
-      width="500"
-      height="200"
-    />
-  </a>
-</p>
-
-## 🛠️ Tech Stacks
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-</p>
   
 ## 🧑‍💻 Contact me
 <p align="center">
