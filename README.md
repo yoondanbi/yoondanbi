@@ -115,6 +115,9 @@
 
 > ####  [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
   스토리와 하이라이트 중심의 영상 요약 웹 서비스
+  
+> ####  [**_MultiPlexer_**](https://github.com/yoondanbi/Multiplexer) <sub><sup>2025.03 ~ 2025.10</sup></sub>
+  실시간 디스플레이 공유가 가능한 임베디드 소프트웨어
 
 <br>
 
